@@ -179,10 +179,10 @@ Explore my public repositories on GitHub:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FawkesFeu&theme=2077" height="190" alt="GitHub Profile Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FawkesFeu&theme=2077" height="190" alt="Most Committed Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FawkesFeu&theme=2077" height="190" alt="Repositories per Language" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FawkesFeu&theme=2077" height="190" alt="Repositories per Language" />
 <img src="https://streak-stats.demolab.com/?user=FawkesFeu&theme=dark" height="190" alt="GitHub Streak" />
 
 </div>
