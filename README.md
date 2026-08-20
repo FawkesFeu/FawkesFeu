@@ -59,7 +59,6 @@ I am a Software Engineer specializing in building **scalable multi-agent AI syst
       <p>
         <a href="https://ieeexplore.ieee.org/document/11206933"><img src="https://img.shields.io/badge/IEEE%20Xplore-Paper-00629B?style=flat-square&logo=ieee&logoColor=white" /></a>
         <a href="https://github.com/FawkesFeu/AI-Powered-Regional-Cost-of-Living-Advisor-For-Turkey"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white" /></a>
-        <a href="https://ai-powered-regional-cost-of-living.vercel.app"><img src="https://img.shields.io/badge/Vercel-Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -120,7 +119,6 @@ Explore my public repositories on GitHub:
 ### 2. 📍 [AI-Powered-Regional-Cost-of-Living-Advisor-For-Turkey](https://github.com/FawkesFeu/AI-Powered-Regional-Cost-of-Living-Advisor-For-Turkey)
 > **AI-Based Domestic Relocation & Cost-of-Living Assistant**  
 > 🔗 **Repository**: [github.com/FawkesFeu/AI-Powered-Regional-Cost-of-Living-Advisor-For-Turkey](https://github.com/FawkesFeu/AI-Powered-Regional-Cost-of-Living-Advisor-For-Turkey)  
-> 🌐 **Live Demo**: [ai-powered-regional-cost-of-living.vercel.app](https://ai-powered-regional-cost-of-living.vercel.app)  
 > 📄 **IEEE Publication**: [IEEE UBMK 2025 Paper](https://ieeexplore.ieee.org/document/11206933)  
 > **Tech Stack**: `Python` • `Google Gemini AI` • `ChromaDB` • `Crawl4AI` • `Multi-Agent RAG`  
 > - Live real-estate and regional economic data scraping agent via Crawl4AI.
@@ -179,14 +177,16 @@ Explore my public repositories on GitHub:
 
 <br/><br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FawkesFeu&show_icons=true&theme=dark&rank_icon=github&count_private=true" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FawkesFeu&layout=compact&theme=dark" height="180" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FawkesFeu&theme=2077" height="190" alt="GitHub Profile Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FawkesFeu&theme=2077" height="190" alt="Most Committed Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=FawkesFeu&theme=dark" height="160" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FawkesFeu&theme=2077" height="190" alt="Repositories per Language" />
+<img src="https://streak-stats.demolab.com/?user=FawkesFeu&theme=dark" height="190" alt="GitHub Streak" />
 
 </div>
+
 
 <br/>
 
